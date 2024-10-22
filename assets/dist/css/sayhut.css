@@ -1,0 +1,189 @@
+/*!
+Custom CSS for Sayhut
+ */
+
+
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #1F9D8E;
+    --bs-btn-border-color: #1F9D8E;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #1F72A1;
+    --bs-btn-hover-border-color: #1F72A1;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #005687;
+    --bs-btn-active-border-color: #005687;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #B9BCC0;
+    --bs-btn-disabled-border-color: #B9BCC0;
+}
+
+.nav-pills {
+    --bs-nav-pills-border-radius: 0.375rem;
+    --bs-nav-pills-link-active-color: #fff;
+    --bs-nav-pills-link-active-bg: #1F9D8E;
+}
+
+.nav {
+    --bs-nav-link-padding-x: 1rem;
+    --bs-nav-link-padding-y: 0.5rem;
+    --bs-nav-link-font-weight: ;
+    --bs-nav-link-color: #414141;
+    --bs-nav-link-hover-color: #1F72A1;
+    --bs-nav-link-disabled-color: #B9BCC0;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.content-dark-bg p {
+  color: white;
+}
+
+.content-dark-bg .h1,
+.content-dark-bg .h2,
+.content-dark-bg .h3 .h4,
+.content-dark-bg .h5,
+.content-dark-bg .h6,
+.content-dark-bg h1,
+.content-dark-bg h2,
+.content-dark-bg h3,
+.content-dark-bg h4,
+.content-dark-bg h5,
+.content-dark-bg h6 {
+  color: #fff;
+}
+
+.dark-gray-bg {
+  background-color: #222;
+  color: white;
+}
+
+.dark-gray-bg p {
+  color: #d2d2d2;
+}
+
+.dark-gray-bg .h1,
+.dark-gray-bg .h2,
+.dark-gray-bg .h3 .h4,
+.dark-gray-bg .h5,
+.dark-gray-bg .h6,
+.dark-gray-bg h1,
+.dark-gray-bg h2,
+.dark-gray-bg h3,
+.dark-gray-bg h4,
+.dark-gray-bg h5,
+.dark-gray-bg h6 {
+  color: #fff;
+}
+
+.dark-gray-bg h2 {
+  color: #ffffff;
+}
+
+.dark-gray-bg .lead {
+  color: #a0a0a0;
+}
+
+
+@media (min-width: 600px) {
+  .green-bg .name {
+  }
+}
+
+
+.light-gray-bg {
+  background-color: #f7f7f7;
+  color: #222;
+}
+
+.light-gray-bg p {
+  color: #222;
+}
+
+.light-gray-bg .h1,
+.light-gray-bg .h2,
+.light-gray-bg .h3 .h4,
+.light-gray-bg .h5,
+.light-gray-bg .h6,
+.light-gray-bg h1,
+.light-gray-bg h2,
+.light-gray-bg h3,
+.light-gray-bg h4,
+.light-gray-bg h5,
+.light-gray-bg h6 {
+  color: #333333;
+}
+
+.light-gray-bg h2 {
+  color: #222;
+}
+
+.light-gray-bg .lead {
+  color: #666666;
+}
+
+@media (min-width: 600px) {
+  .light-gray-bg .name {
+  }
+}
+
+.green-bg p {
+  color: white;
+}
+
+.green-bg .h1,
+.green-bg .h2,
+.green-bg .h3 .h4,
+.green-bg .h5,
+.green-bg .h6,
+.green-bg h1,
+.green-bg h2,
+.green-bg h3,
+.green-bg h4,
+.green-bg h5,
+.green-bg h6 {
+  color: #fff;
+}
+
+.green-bg {
+  background-color: #1F9D8E;
+  color: white;
+}
+
+.green-bg p {
+  color: white;
+}
+
+.green-bg .h1,
+.dgreen-bg .h2,
+.green-bg .h3 .h4,
+.green-bg .h5,
+.green-bg .h6,
+.green-bg h1,
+.green-bg h2,
+.green-bg h3,
+.green-bg h4,
+.green-bg h5,
+.green-bg h6 {
+  color: white;
+}
+
+.green-bg h2 {
+  color: white;
+}
+
+.green-bg .lead {
+  color: white;
+}
+
+
+@media (min-width: 600px) {
+  .green-bg .name {
+  }
+}
